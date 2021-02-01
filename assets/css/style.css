@@ -88,7 +88,7 @@ ul li {
 .logo_text h2 {
   font-size: 0.9em;
   padding: 8px 0 0 0;
-  color: #000000;
+  color: #fff;
 }
 
 .menubar {
@@ -112,12 +112,12 @@ ul.menu li a {
   display: block;
   height: 30px;
   padding: 5px 35px 5px 28px;
-  color: #000000;
+  color: #fff;
   text-decoration: none;
 }
 
 ul.menu li.selected a {
-  color: #000000;
+  color: #fff;
 }
 
 ul.menu li a:hover {
@@ -125,7 +125,7 @@ ul.menu li a:hover {
 }
 
 hr {
-  border: solid 1px #000000;
+  border: solid 1px #fff;
 }
 
 .site_content {
@@ -145,7 +145,7 @@ hr {
   width: 222px;
   padding: 5%;
   margin: 0 0 16px 0;
-  border: solid 1px #D2691E;
+  border: solid 1px #483d8b;
   border-radius: 5px;
   background-color: #f9f9f9;
 }
@@ -197,7 +197,7 @@ hr {
 /*Рамки подборок*/
 .films_block img {
   border-radius: 5px;
-  border: solid 5px #D2691E;
+  border: solid 5px #483d8b;
   width: 22%;
 } 
 
@@ -349,15 +349,15 @@ td img {
   height: 100px;
   padding: 28px 0 5px 0;
   text-align: center;
-  background-color: chocolate;
-  color: #a8aa94;
+  background-color: darkslateblue;
+  color: #fff;
   margin-left: 0px;
   margin-right: 0px;
   min-width: 900px;
 }
 
 .footer a {
-  color: #000000;
+  color: #fff;
   text-decoration: none;
 }
 
