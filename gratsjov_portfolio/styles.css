@@ -1,0 +1,35 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+
+}
+
+html{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 50px;
+	text-align: center;
+	color: #ffff;
+	background: #32A336;
+}
+
+header{
+
+}
+
+.container{
+	min-height: 820px;
+	background: url('img/me.jpg') center/cover no-repeat;
+
+}
+
+.my_projects {
+	display: block;
+	left: 10px;
+}
+
+.my_projects a{
+	color: #39bedc;
+}
+
+
