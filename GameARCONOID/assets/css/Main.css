@@ -1,0 +1,43 @@
+body {
+	font-family: 'Segoe UI' Tahoma;
+	font-size: 13px;
+}
+
+#main {
+	margin: 20px auto;
+	width: 600px;
+	border-radius: 4px;
+	background-color: lightgrey;
+	padding: 10px;
+
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+header {
+	color: grey;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+
+#login-form {
+	width: 300px;
+	margin: 20px auto;
+}
+
+	#login-form p {
+		margin: 10px 0px;
+	}
+
+		#login-form p > label {
+			width: 100px;
+			float: left;
+			margin: 3px 0px;
+		}
+
+	#login-form input[type=text], #login-form input[type=password] {
+		border-radius: 4px;
+		outline: none;
+	}
