@@ -336,7 +336,7 @@ footer .footer_wrap {
 
 
 footer .footer_link, footer .footer_text footer .footer_link_divider {
-	margin-top: 70px;
+	margin-top: 0px;
      /*	font-family: Roboto;   */
 	font-style: normal;
 	font-weight: 350;
@@ -346,7 +346,7 @@ footer .footer_link, footer .footer_text footer .footer_link_divider {
 }
 
 footer .footer_text {
-	margin-top: 70px;
+	margin-top: 0px;
 	
 }
 
