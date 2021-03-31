@@ -347,6 +347,10 @@ footer .footer_link, footer .footer_text footer .footer_link_divider {
 
 footer .footer_text {
 	margin-top: 70px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 350;
+	font-size: 15px;
 	text-align: center;
 	color: #888888;
 }
