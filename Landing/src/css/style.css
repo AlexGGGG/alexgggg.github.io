@@ -19,7 +19,22 @@ html {
 	background: url("../img/bg/main_bg.png") center center/cover no-repeat;
 	padding: 39px 0 62px 0;
 }
-
+.line:before{
+	content: '';
+	display: block;
+	height: 7px;
+	width: 300px;
+	background-color: #FFFFFF;
+	transform: translate(-215px, 47px);
+}
+.line::after{
+	content: '';
+	display: block;
+	height: 7px;
+	width: 300px;
+	background-color: #FFFFFF;
+	transform: translate(1050px, 47px);
+}
 .logo .logo_img {
 	display: block;
 	margin: 0 auto;
